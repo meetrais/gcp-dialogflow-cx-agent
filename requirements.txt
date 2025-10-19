@@ -1,0 +1,3 @@
+# Google Cloud Dialogflow CX
+google-cloud-dialogflow-cx
+python-dotenv
